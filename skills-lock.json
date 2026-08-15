@@ -12,6 +12,18 @@
       "sourceType": "github",
       "skillPath": "skills/golang-design-patterns/SKILL.md",
       "computedHash": "95030a6243df5caf16fb076e939e9e0a7247f45fc9abd6359fffaf5e4e1eae9d"
+    },
+    "improve-codebase-architecture": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/improve-codebase-architecture/SKILL.md",
+      "computedHash": "3929c6892605b67b60503ced451876e9b313d1a909ab7066fbcd9967c56ed226"
+    },
+    "vue-best-practices": {
+      "source": "vuejs-ai/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vue-best-practices/SKILL.md",
+      "computedHash": "21132f6c11c765bd11d0d6ad081122dd858630073e2123b651e58f17b399b131"
     }
   }
 }
